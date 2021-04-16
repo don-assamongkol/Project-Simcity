@@ -2,4 +2,4 @@
 
 Code used to filter products + calculate info on attractive brands for acquisition. 
 
-Multiple versions so that they are compatible with different versions of the data input. 
+Note: Deleted Previous versions of Code since data source format changed. This current version should work
